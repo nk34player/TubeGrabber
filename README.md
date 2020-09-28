@@ -15,8 +15,9 @@ Downloader:
 
 # Upcoming features
 - Download many videos at one time
-- Add custom theme
+- Custom Themes
 - Updater
+- More options and settings
 
 # Libs
 [Youtube Explode](https://github.com/Tyrrrz/YoutubeExplode)
