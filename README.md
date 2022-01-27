@@ -1,6 +1,6 @@
 # TubeGrabber
 
-![Version](https://img.shields.io/github/v/release/nk34player/TubeGrabber?label=latest%20version)  
+[![Version](https://img.shields.io/github/v/release/nk34player/TubeGrabber?label=latest%20version)](https://github.com/nk34player/TubeGrabber/releases/latest)
 is a youtube video/audio downloader made in vb.net
 # Screenshots
 Home:
