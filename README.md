@@ -10,12 +10,13 @@ Downloader:
 # Features
 - Download videos in different extensions (MP3,MP4,WEBM)
 - Download at high speed
+- Download many videos at one time
 - Easy & Simple UI
+- Portable
 - Updated weekly
 
 # Upcoming features
-- Download many videos at one time
-- Custom Themes
+- Custom Themes (added two currently)
 - Updater
 - More options and settings
 
