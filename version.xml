@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.9.0.0</version>
-  <url>https://github.com/nk34player/TubeGrabber/releases/download/v0.9.0-beta/V0.9.zip</url>
+  <version>0.9.1.0</version>
+  <url>https://github.com/nk34player/TubeGrabber/releases/download/v0.9.1-beta/V0.9.1.zip</url>
   <changelog>https://github.com/nk34player/TubeGrabber/releases/latest</changelog>
   <mandatory mode="1">true</mandatory>
 </item>
