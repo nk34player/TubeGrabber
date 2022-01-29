@@ -14,11 +14,11 @@ Downloader:
 - Download many videos at one time
 - Easy & Simple UI
 - Portable
+- Updater
 - Updated weekly
 
 # Upcoming features
 - Custom Themes (added two currently)
-- Updater
 - More options and settings
 
 # Libs
